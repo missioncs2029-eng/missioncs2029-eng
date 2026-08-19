@@ -25,6 +25,14 @@
 </h1>
 
 <p align="center">
+  <strong>Full Stack Developer • CSE Student • Problem Solver</strong>
+</p>
+
+<p align="center">
+  Building modern web applications and turning ideas into real-world products.
+</p>
+
+<p align="center">
   <b>Full Stack Developer • CSE Student • Problem Solver</b>
 </p>
 
@@ -256,7 +264,14 @@ Working toward becoming a complete frontend + backend developer.
 <!-- ============================= -->
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AMIT%20KUMAR&fontSize=64&fontColor=FFFFFF&fontAlignY=38&fontWeight=800&animation=twinkling&color=0:020617,50:0B1F3A,100:123B66"
+    width="100%"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:00E676,50:00695C,100:000000" width="100%"/>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=FULL+STACK+DEVELOPER;CSE+STUDENT;JAVA+%7C+PYTHON+%7C+JAVASCRIPT;REACT+DEVELOPER;DSA+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS"
+  />
 </p>
