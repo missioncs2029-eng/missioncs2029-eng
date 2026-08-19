@@ -1,42 +1,25 @@
 <!-- ========================================================= -->
-<!--                     AMIT KUMAR                            -->
-<!--              GITHUB PROFILE README                        -->
+<!--                    AMIT KUMAR PROFILE                     -->
 <!-- ========================================================= -->
 
-
-<!-- ======================= HEADER ========================== -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=AMIT%20KUMAR&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:020617,50:0B1F3A,100:163A63"
+    src="./assets/amit-banner.gif"
     width="100%"
-    alt="Amit Kumar"
+    alt="Amit Kumar animated profile banner"
   />
 </p>
 
-
-<!-- ==================== TYPING ANIMATION =================== -->
+<br>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=3B82F6&center=true&vCenter=true&width=850&height=55&lines=FULL+STACK+DEVELOPER;CSE+STUDENT;JAVA+%7C+PYTHON+%7C+JAVASCRIPT;REACT+DEVELOPER;DSA+ENTHUSIAST;BUILDING+REAL-WORLD+PROJECTS"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+Student;DSA+Enthusiast;Building+Real-World+Projects;Turning+Ideas+Into+Code"
+    alt="Typing animation"
   />
 </p>
 
-
-<!-- ========================= LOGO ========================== -->
-
-<p align="center">
-  <img
-    src="./ak-logo.png"
-    width="180"
-    alt="AK Logo"
-  />
-</p>
-
-
-<!-- ======================== INTRO ========================== -->
+<br>
 
 <h1 align="center">
   👋 Hey, I'm Amit Kumar
@@ -47,246 +30,252 @@
 </p>
 
 <p align="center">
-  I build modern web applications and turn ideas into real-world products.
+  I build modern web applications, solve problems with code,
+  and turn ideas into real-world products.
 </p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=missioncs2029-eng&label=PROFILE%20VIEWS&color=3B82F6&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
 
 <br>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-kumar-68b406268">
+    <img src="https://img.shields.io/badge/LinkedIn-0A1B33?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<!-- ======================== ABOUT ========================== -->
+  <a href="https://github.com/missionscs2029-eng">
+    <img src="https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
 
 <h2 align="center">⚡ ABOUT ME</h2>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+
+- 🌐 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 💻 Software Development
+- 🎨 Responsive UI/UX
+- 🔧 Backend Development
+- 🚀 Real-world Projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Currently Learning
+
+- ⚛️ React
+- 🐍 Python
+- ☕ Java
+- 🧩 Advanced DSA
+- 🗄️ Databases
+- 🌐 Modern Web Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
 <p align="center">
-  🎓 Computer Science & Engineering Student
-  <br><br>
-  💻 Full Stack Developer
-  <br><br>
-  🧠 Data Structures & Algorithms Enthusiast
-  <br><br>
-  🚀 Building practical real-world applications
-  <br><br>
-  🌱 Learning, building and improving every day
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode,mysql&perline=5" />
+
 </p>
 
+---
 
-<br>
-
-
-<!-- ===================== TECHNOLOGIES ====================== -->
-
-<h2 align="center">🛠️ TECHNOLOGIES</h2>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode"
-    alt="Technologies"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-0B1F3A?style=for-the-badge&logo=leetcode&logoColor=3B82F6"
-    alt="DSA"
-  />
-</p>
-
-
-<br>
-
-
-<!-- ======================= WHAT I DO ======================= -->
-
-<h2 align="center">🚀 WHAT I DO</h2>
+<h2 align="center">💻 WHAT I BUILD</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
+<tr>
 
-### 🌐 Full Stack Development
+<td align="center" width="33%">
+
+## 🌐
+
+### Full Stack Development
 
 Building responsive and functional web applications.
 
-    </td>
+</td>
 
-    <td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🧠 Problem Solving
+## 🧠
+
+### Problem Solving
 
 Strengthening programming logic through DSA.
 
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td align="center" width="50%">
+<td align="center" width="33%">
 
-### 💡 Real-World Projects
+## 🚀
+
+### Real-World Projects
 
 Turning ideas into useful working products.
 
-    </td>
+</td>
 
-    <td align="center" width="50%">
-
-### 🚀 Continuous Learning
-
-Exploring technologies and improving every day.
-
-    </td>
-  </tr>
+</tr>
 </table>
 
+---
 
-<br>
-
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<h2 align="center">🎯 CURRENT FOCUS</h2>
-
-<p align="center">
-
-🔹 Full Stack Development
-<br>
-🔹 Java & Python
-<br>
-🔹 React & Modern Web Development
-<br>
-🔹 Data Structures & Algorithms
-<br>
-🔹 Building Real-World Projects
-
-</p>
-
-
-<br>
-
-
-<!-- ================= CONTRIBUTION GRAPH ==================== -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=020617&color=FFFFFF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Amit%20Kumar's%20Contribution%20Activity"
-    width="100%"
-    alt="Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=missionscs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub activity graph"
   />
 </p>
 
-
-<br>
-
-
-<!-- ===================== SNAKE ============================== -->
+---
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake-dark.svg"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake.svg"
-    />
+<img
+  src="https://raw.githubusercontent.com/missionscs2029-eng/missionscs2029-eng/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub contribution snake"
+/>
 
-    <img
-      src="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
 </p>
 
+---
+
+<h2 align="center">📈 GITHUB STATS</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=missionscs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8&rank_icon=github"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=missionscs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF"
+  height="180"
+  alt="Top Languages"
+/>
+
+</p>
+
+---
+
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=missionscs2029-eng&theme=github-dark-blue&hide_border=true&background=050B18&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC"
+  width="80%"
+  alt="GitHub contribution streak"
+/>
+
+</p>
+
+---
+
+<h2 align="center">📌 FEATURED PROJECTS</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 CampusDev Bot
+
+A project workflow and management system designed for student projects.
+
+**Tech:** Python • Telegram Bot • APIs • Database
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 CampusFix
+
+A campus-focused platform for solving everyday student problems.
+
+**Tech:** HTML • CSS • JavaScript • Backend
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 ClassPulse
+
+A student-focused application for managing academic information.
+
+**Tech:** Web Development • Database
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Coming Soon
+
+Currently building new projects and experimenting with modern technologies.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🎯 MY GOAL</h2>
+
+<p align="center">
+
+<strong>
+Build. Learn. Solve. Ship.
+</strong>
+
+<br><br>
+
+I'm continuously improving my development skills,
+building real-world applications and exploring new technologies.
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=missionscs2029-eng&label=PROFILE+VIEWS&color=0A1B33&style=for-the-badge"
+  alt="Profile views"
+/>
+
+</p>
 
 <br>
 
-
-<!-- ====================== GITHUB STATS ===================== -->
-
-<h2 align="center">📊 GITHUB STATS</h2>
-
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=CBD5E1&icon_color=3B82F6"
-    height="180"
-    alt="GitHub Statistics"
-  />
+<strong>⚡ Code. Create. Repeat. ⚡</strong>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=CBD5E1"
-    height="180"
-    alt="Top Languages"
-  />
-
-</p>
-
-
-<br>
-
-
-<!-- ======================= CONNECT ========================== -->
-
-<h2 align="center">🌐 CONNECT WITH ME</h2>
-
-<p align="center">
-
-  <a href="https://github.com/missioncs2029-eng">
-    <img
-      src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/amit-kumar-68b406268/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      alt="LinkedIn"
-    />
-  </a>
-
-</p>
-
-
-<br>
-
-
-<!-- ===================== MINDSET ============================ -->
-
-<h2 align="center">💭 DEVELOPER MINDSET</h2>
-
-<p align="center">
-  <strong>Learn → Build → Break → Fix → Improve</strong>
-</p>
-
-<p align="center">
-  <i>Don't just learn technology. Build with it.</i>
-</p>
-
-
-<br>
-
-
-<!-- ======================== FOOTER ========================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:163A63,50:0B1F3A,100:020617"
-    width="100%"
-    alt="Animated Footer"
-  />
 </p>
