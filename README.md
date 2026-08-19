@@ -8,27 +8,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=AMIT+KUMAR" alt="Amit Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&height=80&lines=AMIT+KUMAR" alt="Amit Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=FDBA74&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=050B18&label=FOLLOWERS" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=7DD3FC&labelColor=050B18&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-22D3EE?style=for-the-badge&labelColor=050B18" alt="Status"/>
+<img src="https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&logo=github&logoColor=white&color=F97316&labelColor=1C1006&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=FDBA74&labelColor=1C1006&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-FB923C?style=for-the-badge&labelColor=1C1006" alt="Status"/>
 
 <br/><br/>
 
-<a href="#-about"><img src="https://img.shields.io/badge/📌_ABOUT-38BDF8?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
-<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_TECH_ARSENAL-7DD3FC?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-22D3EE?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_ANALYTICS-0EA5E9?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/📬_CONNECT-38BDF8?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
+<a href="#-about"><img src="https://img.shields.io/badge/📌_ABOUT-F97316?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_TECH_ARSENAL-FDBA74?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-FB923C?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_ANALYTICS-EA580C?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/📬_CONNECT-F97316?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0A1B33,100:38BDF8&height=4&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F0A,50:431407,100:F97316&height=4&width=1200" width="100%"/>
 
 <div align="center">
 <table>
@@ -47,18 +47,21 @@
 
 <table>
 <tr>
-<td>
+<td width="60%" valign="top">
 
-```ts
-const amit = {
-  role: "Computer Science Engineering Student",
-  focus: "Full Stack Development",
-  currentlyBuilding: "modern web applications",
-  sharpening: "problem-solving through DSA",
-  philosophy: "turn raw ideas into real, working systems",
-  status: "open to collaborating on real-world web projects",
-};
-```
+I'm a **Computer Science Engineering student** who loves turning raw ideas into real, working software. My focus is **full stack development** — building things people can actually use — backed by a steady habit of sharpening problem-solving through **DSA**.
+
+I care about clean, scalable code and systems that hold up outside a demo. Always learning, always shipping, always up for the next real-world project.
+
+</td>
+<td width="40%" valign="top">
+
+<table>
+<tr><td>🎯</td><td><b>Focus</b></td><td>Full Stack Development</td></tr>
+<tr><td>🔨</td><td><b>Building</b></td><td>Modern web applications</td></tr>
+<tr><td>🧠</td><td><b>Sharpening</b></td><td>DSA & problem-solving</td></tr>
+<tr><td>🤝</td><td><b>Status</b></td><td>Open to collaboration</td></tr>
+</table>
 
 </td>
 </tr>
@@ -112,8 +115,8 @@ const amit = {
 ### 🤖 [CampusDev](https://github.com/missioncs2029-eng/campusdev-bot)
 Telegram bot platform for student project development services.
 
-![Telegram Bot](https://img.shields.io/badge/-Telegram_Bot-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
-![Python](https://img.shields.io/badge/-Python-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
+![Telegram Bot](https://img.shields.io/badge/-Telegram_Bot-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Python](https://img.shields.io/badge/-Python-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
 <td width="33%" valign="top">
@@ -121,8 +124,8 @@ Telegram bot platform for student project development services.
 ### 🛠️ [CampusFix](https://github.com/missioncs2029-eng/CampusFix)
 Campus-focused utility project built for real student needs.
 
-![Utility](https://img.shields.io/badge/-Utility-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
-![Full Stack](https://img.shields.io/badge/-Full_Stack-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
+![Utility](https://img.shields.io/badge/-Utility-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
 <td width="33%" valign="top">
@@ -130,8 +133,8 @@ Campus-focused utility project built for real student needs.
 ### 📅 [ClassPulse](https://github.com/missioncs2029-eng/classpulse)
 College companion app — timetable, attendance & tasks.
 
-![Productivity](https://img.shields.io/badge/-Productivity-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
-![Full Stack](https://img.shields.io/badge/-Full_Stack-050B18?style=flat-square&labelColor=050B18&color=38BDF8)
+![Productivity](https://img.shields.io/badge/-Productivity-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
 </tr>
@@ -149,16 +152,16 @@ College companion app — timetable, attendance & tasks.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=1C1006&color=FDBA74&line=F97316&point=FFFFFF&area=true&area_color=F97316&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF&icon_color=F97316" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=missioncs2029-eng&hide_border=true&background=050B18&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=60A5FA" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=missioncs2029-eng&hide_border=true&background=1C1006&ring=F97316&fire=FDBA74&currStreakLabel=FDBA74&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FCD34D" alt="GitHub Streak" />
 
 </div>
 
@@ -204,14 +207,14 @@ College companion app — timetable, attendance & tasks.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617)](https://www.linkedin.com/in/amit-kumar-68b406268)
+[![GitHub](https://img.shields.io/badge/GitHub-1C1006?style=for-the-badge&logo=github&logoColor=F97316&labelColor=1A0F0A)](https://github.com/missioncs2029-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1006?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=1A0F0A)](https://www.linkedin.com/in/amit-kumar-68b406268)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B33,100:020617&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,100:1A0F0A&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
