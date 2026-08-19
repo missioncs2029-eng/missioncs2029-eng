@@ -2,13 +2,18 @@
 
 <img src="assets/amit-banner.gif" width="100%" alt="Amit Kumar Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=3&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A1B33,100:38BDF8&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2600&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amit+Kumar;Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Turning+Ideas+Into+Systems" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&color=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
+[![Profile Views](https://komarev.com/ghpvc/?username=missioncs2029-eng&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/missioncs2029-eng)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=3&width=1200" width="100%"/>
 
 <table align="center">
 <tr>
@@ -25,22 +30,22 @@
 
 ### 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-I'm **Amit Kumar** — a Computer Science Engineering student and full stack developer who builds modern web applications, sharpens problem-solving through DSA, and turns raw ideas into real, working systems.
-
 </div>
+
+```
+> whoami
+Amit Kumar — Computer Science Engineering student & full stack developer
+
+> mission
+Building modern web applications, sharpening problem-solving through DSA,
+and turning raw ideas into real, working systems — one commit at a time.
+
+> status
+Currently deepening Full Stack Development · strengthening DSA
+Open to collaborating on real-world web projects
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
-
-<div align="center">
-
-### 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
-
-[![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617)](https://www.linkedin.com/in/amit-kumar-68b406268)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
@@ -64,6 +69,43 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
+
+<div align="center">
+
+### 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+##### 🤖 [CampusDev](https://github.com/missioncs2029-eng/campusdev-bot)
+Telegram bot platform for student project development services
+
+`Telegram Bot` `Python`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+##### 🛠️ [CampusFix](https://github.com/missioncs2029-eng/CampusFix)
+Campus-focused utility project
+
+`Utility` `Full Stack`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+##### 📅 [ClassPulse](https://github.com/missioncs2029-eng/classpulse)
+College companion app — timetable, attendance & tasks
+
+`Productivity` `Full Stack`
+
+</td>
+</tr>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
 
 <div align="center">
@@ -75,40 +117,6 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
-
-<div align="center">
-
-### 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**[CampusDev](https://github.com/missioncs2029-eng/campusdev-bot)**
-<br/><br/>
-<sub>Telegram bot platform for student project development services</sub>
-
-</td>
-<td width="33%" align="center">
-
-**[CampusFix](https://github.com/missioncs2029-eng/CampusFix)**
-<br/><br/>
-<sub>Campus-focused utility project</sub>
-
-</td>
-<td width="33%" align="center">
-
-**[ClassPulse](https://github.com/missioncs2029-eng/classpulse)**
-<br/><br/>
-<sub>College companion app — timetable, attendance & tasks</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
@@ -167,17 +175,28 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
+
+<div align="center">
+
+### 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
+
+[![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617)](https://www.linkedin.com/in/amit-kumar-68b406268)
+
+</div>
+
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0A1B33&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B33,100:020617&height=100&section=footer" width="100%"/>
 
 <img src="assets/ak-logo.png" width="50" alt="AK Logo" />
 <br/>
 
 **𝗔𝗠𝗜𝗧 𝗞𝗨𝗠𝗔𝗥** · Full Stack Developer · CSE Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=missioncs2029-eng&color=38BDF8&style=flat-square&label=Profile+Views)
+*"Turning ideas into systems, one line at a time."*
 
 </div>
