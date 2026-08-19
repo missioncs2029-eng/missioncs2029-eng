@@ -15,6 +15,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+Student;Java+%7C+Python+%7C+JavaScript;React+Developer;DSA+Enthusiast;Building+Ideas+Into+Reality" />
 </p>
 
+<p align="center">
+  <img
+    src="./ak-logo.png"
+    width="190"
+    alt="AK Logo"
+  />
+</p>
+
 
 <!-- ============================= -->
 <!--           INTRO               -->
@@ -33,7 +41,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer • CSE Student • Problem Solver</b>
+  <strong>FULL STACK DEVELOPER • CSE STUDENT • DSA ENTHUSIAST</strong>>
 </p>
 
 <p align="center">
