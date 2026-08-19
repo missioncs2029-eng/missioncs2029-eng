@@ -185,7 +185,7 @@ College companion app — timetable, attendance & tasks.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=gruvbox&no-frame=false&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=missioncs2029-eng&theme=gruvbox&no-frame=false&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
 </div>
 
