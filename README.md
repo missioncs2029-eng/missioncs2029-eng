@@ -1,68 +1,68 @@
-<!-- ============================= -->
-<!--       ANIMATED HEADER         -->
-<!-- ============================= -->
+<!-- ========================================================= -->
+<!--                    AMIT KUMAR PROFILE                     -->
+<!-- ========================================================= -->
+
+<!-- ===================== ANIMATED HEADER =================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=AMIT%20KUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:000000,50:00695C,100:00E676" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AMIT%20KUMAR&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:020617,50:0B1F3A,100:163A63"
+    width="100%"
+    alt="Amit Kumar"
+  />
 </p>
 
 
-<!-- ============================= -->
-<!--        TYPING EFFECT          -->
-<!-- ============================= -->
+<!-- ===================== TYPING ANIMATION ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+Student;Java+%7C+Python+%7C+JavaScript;React+Developer;DSA+Enthusiast;Building+Ideas+Into+Reality" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=3B82F6&center=true&vCenter=true&width=800&height=55&lines=FULL+STACK+DEVELOPER;CSE+STUDENT;JAVA+%7C+PYTHON+%7C+JAVASCRIPT;REACT+DEVELOPER;DSA+ENTHUSIAST;BUILDING+REAL-WORLD+PROJECTS"
+    alt="Typing Animation"
+  />
 </p>
+
+
+<!-- ======================== LOGO ============================ -->
 
 <p align="center">
   <img
     src="./ak-logo.png"
     width="190"
-    alt="AK Logo"
+    alt="AK - Amit Kumar"
   />
 </p>
 
 
-<!-- ============================= -->
-<!--           INTRO               -->
-<!-- ============================= -->
+<!-- ====================== INTRODUCTION ===================== -->
 
 <h1 align="center">
   👋 Hey, I'm Amit Kumar
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer • CSE Student • Problem Solver</strong>
+  <strong>
+    Full Stack Developer • CSE Student • Problem Solver
+  </strong>
 </p>
 
 <p align="center">
-  Building modern web applications and turning ideas into real-world products.
+  I build modern web applications, learn by building,
+  and turn ideas into real-world products.
 </p>
 
 <p align="center">
-  <strong>FULL STACK DEVELOPER • CSE STUDENT • DSA ENTHUSIAST</strong>>
-</p>
-
-<p align="center">
-  I build modern web applications, solve problems with code,
-  and turn ideas into real-world projects.
-</p>
-
-
-<!-- PROFILE VIEWS -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&label=PROFILE%20VIEWS&color=00E676&style=for-the-badge"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=missioncs2029-eng&label=PROFILE%20VIEWS&color=3B82F6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 
 <br>
 
 
-<!-- ============================= -->
-<!--          ABOUT ME             -->
-<!-- ============================= -->
+<!-- ======================== ABOUT ME ======================== -->
 
 <h2 align="center">⚡ ABOUT ME</h2>
 
@@ -71,38 +71,44 @@
   <br><br>
   💻 Full Stack Developer
   <br><br>
-  🧠 Currently improving Data Structures & Algorithms
+  🧠 Data Structures & Algorithms Enthusiast
   <br><br>
-  🚀 Building real-world projects
+  🚀 Building real-world applications
   <br><br>
-  🌱 Always learning something new
+  🌱 Learning something new every day
 </p>
 
 
 <br>
 
 
-<!-- ============================= -->
-<!--         TECH STACK            -->
-<!-- ============================= -->
+<!-- ======================= TECH STACK ====================== -->
 
-<h2 align="center">🛠️ TECHNOLOGIES</h2>
+<h2 align="center">🛠️ TECH STACK</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode&perline=9" />
+
+<img
+  src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode"
+  alt="Tech Stack"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00E676?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111111"/>
+
+<img
+  src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-0B1F3A?style=for-the-badge&logo=leetcode&logoColor=3B82F6"
+  alt="DSA"
+/>
+
 </p>
 
 
 <br>
 
 
-<!-- ============================= -->
-<!--        WHAT I BUILD           -->
-<!-- ============================= -->
+<!-- ======================= WHAT I BUILD ==================== -->
 
 <h2 align="center">🚀 WHAT I BUILD</h2>
 
@@ -111,9 +117,9 @@
 
 <td align="center" width="50%">
 
-### 🌐 Web Applications
+### 🌐 Full Stack Applications
 
-Responsive and modern web applications designed to solve real-world problems.
+Building responsive, functional and practical web applications.
 
 </td>
 
@@ -121,7 +127,7 @@ Responsive and modern web applications designed to solve real-world problems.
 
 ### 🧠 Problem Solving
 
-Strengthening my programming fundamentals through Data Structures & Algorithms.
+Improving programming logic through Data Structures & Algorithms.
 
 </td>
 
@@ -131,39 +137,42 @@ Strengthening my programming fundamentals through Data Structures & Algorithms.
 
 <td align="center" width="50%">
 
-### 💡 Real Projects
+### 💡 Real-World Projects
 
-Turning ideas into functional applications instead of just tutorials.
+Turning ideas into working products instead of only following tutorials.
 
 </td>
 
 <td align="center" width="50%">
 
-### 🚀 Full Stack
+### 🚀 Continuous Growth
 
-Working toward becoming a complete frontend + backend developer.
+Learning modern technologies and improving software engineering skills.
 
 </td>
 
 </tr>
-
 </table>
 
 
 <br>
 
 
-<!-- ============================= -->
-<!--        GITHUB STATS           -->
-<!-- ============================= -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">🎯 CURRENTLY FOCUSING ON</h2>
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=FFFFFF"/>
+🔹 Full Stack Development
+<br>
+🔹 Data Structures & Algorithms
+<br>
+🔹 Java & Python
+<br>
+🔹 React & Modern Web Development
+<br>
+🔹 Building Real-World Projects
 
 </p>
 
@@ -171,15 +180,17 @@ Working toward becoming a complete frontend + backend developer.
 <br>
 
 
-<!-- ============================= -->
-<!--          STREAK               -->
-<!-- ============================= -->
+<!-- ===================== GITHUB ACTIVITY =================== -->
 
-<h2 align="center">🔥 GITHUB STREAK</h2>
+<h2 align="center">📈 GITHUB ACTIVITY</h2>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=missioncs2029-eng&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=020617&color=FFFFFF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Amit%20Kumar's%20Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </p>
 
@@ -187,15 +198,29 @@ Working toward becoming a complete frontend + backend developer.
 <br>
 
 
-<!-- ============================= -->
-<!--       ACTIVITY GRAPH          -->
-<!-- ============================= -->
+<!-- ======================= SNAKE ============================ -->
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=0D1117&color=FFFFFF&line=00E676&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </p>
 
@@ -203,20 +228,50 @@ Working toward becoming a complete frontend + backend developer.
 <br>
 
 
-<!-- ============================= -->
-<!--          SOCIALS              -->
-<!-- ============================= -->
+<!-- ===================== GITHUB STATS ====================== -->
+
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=020617&title_color=FFFFFF&icon_color=3B82F6&text_color=CBD5E1&ring_color=3B82F6"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=020617&title_color=FFFFFF&text_color=CBD5E1"
+  height="180"
+  alt="Top Languages"
+/>
+
+</p>
+
+
+<br>
+
+
+<!-- ====================== CONNECT ========================== -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
 
 <a href="https://github.com/missioncs2029-eng">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/amit-kumar-68b406268/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"
+    alt="LinkedIn"
+  />
 </a>
 
 </p>
@@ -225,61 +280,36 @@ Working toward becoming a complete frontend + backend developer.
 <br>
 
 
-<!-- ============================= -->
-<!--        DEVELOPER QUOTE        -->
-<!-- ============================= -->
+<!-- ===================== DEVELOPER MINDSET ================= -->
 
 <h2 align="center">💭 DEVELOPER MINDSET</h2>
 
 <p align="center">
 
-<i>
-"Don't just learn technology. Build with it."
-</i>
+<strong>
+Learn → Build → Break → Fix → Improve
+</strong>
 
+</p>
+
+<p align="center">
+  <i>
+    Don't just learn technology. Build with it.
+  </i>
 </p>
 
 
 <br>
 
 
-<!-- ============================= -->
-<!--        CURRENT FOCUS          -->
-<!-- ============================= -->
-
-<h2 align="center">🎯 CURRENTLY FOCUSING ON</h2>
+<!-- ===================== FOOTER ============================= -->
 
 <p align="center">
 
-🧠 Data Structures & Algorithms
-<br>
-🌐 Full Stack Development
-<br>
-🚀 Real-World Projects
-<br>
-💻 Software Engineering
-<br>
-📚 Continuous Learning
-
-</p>
-
-
-<br>
-
-
-<!-- ============================= -->
-<!--        ANIMATED FOOTER        -->
-<!-- ============================= -->
-
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AMIT%20KUMAR&fontSize=64&fontColor=FFFFFF&fontAlignY=38&fontWeight=800&animation=twinkling&color=0:020617,50:0B1F3A,100:123B66"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:163A63,50:0B1F3A,100:020617"
     width="100%"
+    alt="Animated Footer"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=FULL+STACK+DEVELOPER;CSE+STUDENT;JAVA+%7C+PYTHON+%7C+JAVASCRIPT;REACT+DEVELOPER;DSA+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS"
-  />
 </p>
