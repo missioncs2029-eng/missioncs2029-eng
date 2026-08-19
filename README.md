@@ -15,16 +15,16 @@
 <br/>
 
 <img src="https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=050B18&label=FOLLOWERS" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=38BDF8&labelColor=050B18&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-7DD3FC?style=for-the-badge&labelColor=050B18" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=7DD3FC&labelColor=050B18&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-22D3EE?style=for-the-badge&labelColor=050B18" alt="Status"/>
 
 <br/><br/>
 
-<a href="#-about"><img src="https://img.shields.io/badge/📌_About-050B18?style=for-the-badge&color=0A1B33" /></a>
-<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_Tech_Arsenal-050B18?style=for-the-badge&color=0A1B33" /></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-050B18?style=for-the-badge&color=0A1B33" /></a>
-<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_Analytics-050B18?style=for-the-badge&color=0A1B33" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/📬_Connect-050B18?style=for-the-badge&color=0A1B33" /></a>
+<a href="#-about"><img src="https://img.shields.io/badge/📌_ABOUT-38BDF8?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_TECH_ARSENAL-7DD3FC?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-22D3EE?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_ANALYTICS-0EA5E9?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/📬_CONNECT-38BDF8?style=for-the-badge&logoColor=white&labelColor=050B18" /></a>
 
 </div>
 
