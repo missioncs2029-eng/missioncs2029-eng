@@ -185,7 +185,7 @@ College companion app — timetable, attendance & tasks.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=gruvbox&no-frame=false&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -207,14 +207,14 @@ College companion app — timetable, attendance & tasks.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1C1006?style=for-the-badge&logo=github&logoColor=F97316&labelColor=1A0F0A)](https://github.com/missioncs2029-eng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1006?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=1A0F0A)](https://www.linkedin.com/in/amit-kumar-68b406268)
+[![GitHub](https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=1A0F0A&labelColor=1A0F0A)](https://github.com/missioncs2029-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=1A0F0A&labelColor=1A0F0A)](https://www.linkedin.com/in/amit-kumar-68b406268)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,100:1A0F0A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,50:9A3412,100:F97316&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
