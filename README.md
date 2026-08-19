@@ -156,12 +156,12 @@ College companion app — timetable, attendance & tasks.
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF&icon_color=F97316" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF&icon_color=F97316" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=missioncs2029-eng&hide_border=true&background=1C1006&ring=F97316&fire=FDBA74&currStreakLabel=FDBA74&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FCD34D" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=missioncs2029-eng&hide_border=true&background=1C1006&ring=F97316&fire=FDBA74&currStreakLabel=FDBA74&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FCD34D" alt="GitHub Streak" />
 
 </div>
 
