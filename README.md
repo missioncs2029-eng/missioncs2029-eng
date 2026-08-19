@@ -8,36 +8,38 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=AMIT+KUMAR" alt="Amit Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=AMIT+KUMAR" alt="Amit Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=7DD3FC&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&color=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
-[![Profile Views](https://komarev.com/ghpvc/?username=missioncs2029-eng&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/missioncs2029-eng)
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-38BDF8?style=for-the-badge&labelColor=020617)](#-connect)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 
 <br/>
 
-<a href="#-about">About</a> •
-<a href="#-tech-arsenal">Tech Arsenal</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-analytics">Analytics</a> •
-<a href="#-connect">Connect</a>
+<img src="https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=050B18&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=38BDF8&labelColor=050B18&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-7DD3FC?style=for-the-badge&labelColor=050B18" alt="Status"/>
+
+<br/><br/>
+
+<a href="#-about"><img src="https://img.shields.io/badge/📌_About-050B18?style=for-the-badge&color=0A1B33" /></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_Tech_Arsenal-050B18?style=for-the-badge&color=0A1B33" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-050B18?style=for-the-badge&color=0A1B33" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_Analytics-050B18?style=for-the-badge&color=0A1B33" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/📬_Connect-050B18?style=for-the-badge&color=0A1B33" /></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0A1B33,100:38BDF8&height=4&width=1200" width="100%"/>
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center" width="140">🎓<br/><sub><b>CSE Student</b></sub></td>
-<td align="center" width="140">💻<br/><sub><b>Full Stack Dev</b></sub></td>
-<td align="center" width="140">🧠<br/><sub><b>DSA Enthusiast</b></sub></td>
-<td align="center" width="140">🚀<br/><sub><b>Builder</b></sub></td>
+<td align="center" width="150">🎓<br/><sub><b>CSE Student</b></sub></td>
+<td align="center" width="150">💻<br/><sub><b>Full Stack Dev</b></sub></td>
+<td align="center" width="150">🧠<br/><sub><b>DSA Enthusiast</b></sub></td>
+<td align="center" width="150">🚀<br/><sub><b>Builder</b></sub></td>
 </tr>
 </table>
+</div>
 
 <br/>
 
