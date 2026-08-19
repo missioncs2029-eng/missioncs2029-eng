@@ -10,6 +10,17 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center">🎓<br/><sub><b>CSE Student</b></sub></td>
+<td align="center">💻<br/><sub><b>Full Stack Dev</b></sub></td>
+<td align="center">🧠<br/><sub><b>DSA Enthusiast</b></sub></td>
+<td align="center">🚀<br/><sub><b>Builder</b></sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
+
 <div align="center">
 
 ### ⚡ About Me
@@ -18,40 +29,52 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missionscs2029-eng)
+### 📡 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617)](https://www.linkedin.com/in/amit-kumar-68b406268)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
 ### 🧬 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,py,html,css,js,react,git,github,vscode,mysql&theme=dark" alt="Tech Stack" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
 ### 🛰️ What I Build
 
-</div>
-
-<div align="center">
-
 `Full-stack web apps`  ·  `DSA-driven problem solving`  ·  `Utility bots & tools`  ·  `CSE coursework projects`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
@@ -61,22 +84,22 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 <tr>
 <td width="33%" align="center">
 
-**[CampusDev](https://github.com/missionscs2029-eng/campusdev-bot)**
-<br/>
+**[CampusDev](https://github.com/missioncs2029-eng/campusdev-bot)**
+<br/><br/>
 <sub>Telegram bot platform for student project development services</sub>
 
 </td>
 <td width="33%" align="center">
 
-**[CampusFix](https://github.com/missionscs2029-eng/CampusFix)**
-<br/>
+**[CampusFix](https://github.com/missioncs2029-eng/CampusFix)**
+<br/><br/>
 <sub>Campus-focused utility project</sub>
 
 </td>
 <td width="33%" align="center">
 
-**[ClassPulse](https://github.com/missionscs2029-eng/classpulse)**
-<br/>
+**[ClassPulse](https://github.com/missioncs2029-eng/classpulse)**
+<br/><br/>
 <sub>College companion app — timetable, attendance & tasks</sub>
 
 </td>
@@ -85,13 +108,13 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
-### 📡 GitHub Activity
+### 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=missionscs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -100,25 +123,10 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 ### 🐍 Contribution Snake
 
 <img
-  src="https://raw.githubusercontent.com/missionscs2029-eng/missionscs2029-eng/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake-dark.svg"
   width="95%"
   alt="GitHub Contribution Snake"
 />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=missionscs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missionscs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=missionscs2029-eng&hide_border=true&background=050B18&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=60A5FA" alt="GitHub Streak" />
 
 </div>
 
@@ -126,13 +134,28 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🏆 Trophy Case
+### 📈 GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=missionscs2029-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=missioncs2029-eng&hide_border=true&background=050B18&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=60A5FA" alt="GitHub Streak" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0A1B33&height=2&width=1200" width="100%"/>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1B33,100:020617&height=2&width=1200" width="100%"/>
 
 <div align="center">
 
@@ -155,6 +178,6 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 **Amit Kumar** · Full Stack Developer · CSE Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=missionscs2029-eng&color=38BDF8&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=missioncs2029-eng&color=38BDF8&style=flat-square&label=Profile+Views)
 
 </div>
