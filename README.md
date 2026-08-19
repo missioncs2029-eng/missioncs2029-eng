@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=3&width=1200" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### ⚡ About Me
+### 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
 I'm **Amit Kumar** — a Computer Science Engineering student and full stack developer who builds modern web applications, sharpens problem-solving through DSA, and turns raw ideas into real, working systems.
 
@@ -33,7 +33,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 📡 Connect
+### 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
 
 [![GitHub](https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617)](https://github.com/missioncs2029-eng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617)](https://www.linkedin.com/in/amit-kumar-68b406268)
@@ -44,7 +44,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🧬 Tech Stack
+### 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
 **Languages**
 <br/>
@@ -68,7 +68,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🛰️ What I Build
+### 𝗪𝗛𝗔𝗧 𝗜 𝗕𝗨𝗜𝗟𝗗
 
 `Full-stack web apps`  ·  `DSA-driven problem solving`  ·  `Utility bots & tools`  ·  `CSE coursework projects`
 
@@ -78,7 +78,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 📌 Featured Projects
+### 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <table>
 <tr>
@@ -112,7 +112,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 📊 GitHub Activity
+### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗬
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
@@ -120,7 +120,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 𝗦𝗡𝗔𝗞𝗘
 
 <img
   src="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake-dark.svg"
@@ -134,7 +134,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF" alt="Top Languages" />
@@ -149,7 +149,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🏆 Trophy Case
+### 𝗧𝗥𝗢𝗣𝗛𝗬 𝗖𝗔𝗦𝗘
 
 <img src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
@@ -159,7 +159,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 
 <div align="center">
 
-### 🎯 Current Focus
+### 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦
 
 🔭 Deepening skills in **Full Stack Development**
 🌱 Strengthening **Data Structures & Algorithms**
@@ -176,7 +176,7 @@ I'm **Amit Kumar** — a Computer Science Engineering student and full stack dev
 <img src="assets/ak-logo.png" width="50" alt="AK Logo" />
 <br/>
 
-**Amit Kumar** · Full Stack Developer · CSE Student
+**𝗔𝗠𝗜𝗧 𝗞𝗨𝗠𝗔𝗥** · Full Stack Developer · CSE Student
 
 ![Profile Views](https://komarev.com/ghpvc/?username=missioncs2029-eng&color=38BDF8&style=flat-square&label=Profile+Views)
 
