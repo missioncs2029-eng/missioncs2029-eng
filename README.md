@@ -1,394 +1,175 @@
-<!-- ========================================================= -->
-<!--                    AMIT KUMAR • PROFILE                   -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img
-  src="./assets/amit-banner.gif"
-  width="100%"
-  alt="Amit Kumar - Full Stack Developer"
-/>
-
-<br/><br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=FULL+STACK+DEVELOPER;CSE+STUDENT;DSA+ENTHUSIAST;BUILDING+REAL-WORLD+PROJECTS;TURNING+IDEAS+INTO+CODE"
-  alt="Typing animation"
-/>
-
-<br/><br/>
-
-<strong>BUILD • LEARN • SOLVE • SHIP</strong>
-
-<br/><br/>
-
-<a href="https://github.com/missioncs2029-eng">
-  <img
-    src="https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/amit-kumar-68b406268">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<img
-  src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=38BDF8&labelColor=050B18&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<img src="assets/amit-banner.gif" width="100%" alt="Amit Kumar Banner" />
 
 </div>
 
 <br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,50:0F2742,100:38BDF8&height=5&section=header"
-  width="100%"
-  alt=""
-/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&height=80&lines=AMIT+KUMAR" alt="Amit Kumar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=FDBA74&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Builidng+Clean%2C+Scalable+Projects;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                       QUICK PROFILE                       -->
-<!-- ========================================================= -->
+<img src="https://img.shields.io/github/followers/missioncs2029-eng?style=for-the-badge&logo=github&logoColor=white&color=F97316&labelColor=1C1006&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=missioncs2029-eng&style=for-the-badge&color=FDBA74&labelColor=1C1006&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-FB923C?style=for-the-badge&labelColor=1C1006" alt="Status"/>
+
+<br/><br/>
+
+<a href="#-about"><img src="https://img.shields.io/badge/📌_ABOUT-F97316?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🧰_TECH_ARSENAL-FDBA74?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_PROJECTS-FB923C?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_ANALYTICS-EA580C?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/📬_CONNECT-F97316?style=for-the-badge&logoColor=white&labelColor=1C1006" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0F0A,50:431407,100:F97316&height=4&width=1200" width="100%"/>
 
 <div align="center">
-
 <table>
 <tr>
-
-<td align="center" width="180">
-<h3>🎓</h3>
-<b>CSE Student</b>
-</td>
-
-<td align="center" width="180">
-<h3>💻</h3>
-<b>Full Stack Developer</b>
-</td>
-
-<td align="center" width="180">
-<h3>🧠</h3>
-<b>DSA Enthusiast</b>
-</td>
-
-<td align="center" width="180">
-<h3>🚀</h3>
-<b>Builder</b>
-</td>
-
+<td align="center" width="150">🎓<br/><sub><b>CSE Student</b></sub></td>
+<td align="center" width="150">💻<br/><sub><b>Full Stack Dev</b></sub></td>
+<td align="center" width="150">🧠<br/><sub><b>DSA Enthusiast</b></sub></td>
+<td align="center" width="150">🚀<br/><sub><b>Builder</b></sub></td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
-<!-- ========================================================= -->
-
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+## 📌 About
 
 <table>
 <tr>
-
 <td width="60%" valign="top">
 
-I'm **Amit Kumar**, a Computer Science Engineering student passionate about building software that solves real-world problems.
+I'm a **Computer Science Engineering student** who loves turning raw ideas into real, working software. My focus is **full stack development** — building things people can actually use — backed by a steady habit of sharpening problem-solving through **DSA**.
 
-My primary focus is **Full Stack Development**, while continuously improving my **Data Structures & Algorithms** and problem-solving skills.
-
-I enjoy taking an idea from:
-
-**Concept → Code → Product**
-
-and turning it into something people can actually use.
-
-I'm currently exploring modern web technologies, backend systems, databases, APIs, and scalable application architecture.
+I care about clean, scalable code and systems that hold up outside a demo. Always learning, always shipping, always up for the next real-world project.
 
 </td>
-
 <td width="40%" valign="top">
 
-<h3>⚡ Quick Profile</h3>
-
-| | |
-|---|---|
-| 🎓 | CSE Student |
-| 💻 | Full Stack Developer |
-| 🧠 | DSA Enthusiast |
-| 🚀 | Project Builder |
-| 🌐 | Web Development |
-| 🤝 | Open to Collaboration |
+<table>
+<tr><td>🎯</td><td><b>Focus</b></td><td>Full Stack Development</td></tr>
+<tr><td>🔨</td><td><b>Building</b></td><td>Modern web applications</td></tr>
+<tr><td>🧠</td><td><b>Sharpening</b></td><td>DSA & problem-solving</td></tr>
+<tr><td>🤝</td><td><b>Status</b></td><td>Open to collaboration</td></tr>
+</table>
 
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                       TECH ARSENAL                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🧰 TECH ARSENAL</h2>
-
-<div align="center">
-
-<h3>💻 Languages</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=java,python,js"
-  alt="Java Python JavaScript"
-/>
-
-<br/><br/>
-
-<h3>🌐 Frontend</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,react"
-  alt="HTML CSS React"
-/>
-
-<br/><br/>
-
-<h3>🗄️ Database</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=mysql"
-  alt="MySQL"
-/>
-
-<br/><br/>
-
-<h3>🛠️ Tools</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode"
-  alt="Git GitHub VS Code"
-/>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                       WHAT I BUILD                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 WHAT I BUILD</h2>
+## 🧰 Tech Arsenal
 
 <table align="center">
 <tr>
+<td align="center" valign="top" width="25%">
 
-<td align="center" width="33%" valign="top">
+**Languages**
 
-<h2>🌐</h2>
-
-<h3>Full Stack</h3>
-
-Building responsive and functional web applications with modern technologies.
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" />
 
 </td>
+<td align="center" valign="top" width="25%">
 
-<td align="center" width="33%" valign="top">
+**Frontend**
 
-<h2>🧠</h2>
-
-<h3>Problem Solving</h3>
-
-Improving programming logic through Data Structures & Algorithms.
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
 </td>
+<td align="center" valign="top" width="25%">
 
-<td align="center" width="33%" valign="top">
+**Backend & DB**
 
-<h2>🚀</h2>
-
-<h3>Real-World Products</h3>
-
-Turning ideas into useful software and working systems.
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 </td>
+<td align="center" valign="top" width="25%">
 
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
+## 🚀 Featured Projects
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-
 <td width="33%" valign="top">
 
-<h3>🤖 CampusDev Bot</h3>
+### 🤖 [CampusDev](https://github.com/missioncs2029-eng/campusdev-bot)
+Telegram bot platform for student project development services.
 
-Telegram-based workflow for managing student project requests and development services.
-
-<br/>
-
-<img
-  src="https://img.shields.io/badge/Python-050B18?style=flat-square&logo=python&logoColor=3776AB"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/Telegram-050B18?style=flat-square&logo=telegram&logoColor=26A5E4"
-  alt="Telegram"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/missioncs2029-eng/campusdev-bot">
-  <b>View Project →</b>
-</a>
+![Telegram Bot](https://img.shields.io/badge/-Telegram_Bot-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Python](https://img.shields.io/badge/-Python-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
-
 <td width="33%" valign="top">
 
-<h3>🛠️ CampusFix</h3>
+### 🛠️ [CampusFix](https://github.com/missioncs2029-eng/CampusFix)
+Campus-focused utility project built for real student needs.
 
-Campus-focused platform designed around solving everyday student problems.
-
-<br/>
-
-<img
-  src="https://img.shields.io/badge/HTML-050B18?style=flat-square&logo=html5&logoColor=E34F26"
-  alt="HTML"
-/>
-
-<img
-  src="https://img.shields.io/badge/CSS-050B18?style=flat-square&logo=css3&logoColor=1572B6"
-  alt="CSS"
-/>
-
-<img
-  src="https://img.shields.io/badge/JavaScript-050B18?style=flat-square&logo=javascript&logoColor=F7DF1E"
-  alt="JavaScript"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/missioncs2029-eng/CampusFix">
-  <b>View Project →</b>
-</a>
+![Utility](https://img.shields.io/badge/-Utility-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
-
 <td width="33%" valign="top">
 
-<h3>📚 ClassPulse</h3>
+### 📅 [ClassPulse](https://github.com/missioncs2029-eng/classpulse)
+College companion app — timetable, attendance & tasks.
 
-Student-focused academic companion for organizing college information and tasks.
-
-<br/>
-
-<img
-  src="https://img.shields.io/badge/Web-050B18?style=flat-square&logo=googlechrome&logoColor=4285F4"
-  alt="Web"
-/>
-
-<img
-  src="https://img.shields.io/badge/MySQL-050B18?style=flat-square&logo=mysql&logoColor=4479A1"
-  alt="MySQL"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/missioncs2029-eng/classpulse">
-  <b>View Project →</b>
-</a>
+![Productivity](https://img.shields.io/badge/-Productivity-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-1C1006?style=flat-square&labelColor=1C1006&color=F97316)
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                    GITHUB ACTIVITY                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
-
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=050B18&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&custom_title=Amit%20Kumar's%20Contribution%20Activity"
-  width="95%"
-  alt="GitHub Contribution Activity"
-/>
+`Full-stack web apps`  ·  `DSA-driven problem solving`  ·  `Utility bots & tools`  ·  `CSE coursework projects`
 
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                     GITHUB STATS                          -->
-<!-- ========================================================= -->
-
-<h2 align="center">📈 GITHUB ANALYTICS</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF&icon_color=38BDF8&rank_icon=github"
-  alt="Amit Kumar GitHub Statistics"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=missioncs2029-eng&bg_color=1C1006&color=FDBA74&line=F97316&point=FFFFFF&area=true&area_color=F97316&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=050B18&title_color=7DD3FC&text_color=FFFFFF"
-  alt="Amit Kumar Top Languages"
-/>
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=missioncs2029-eng&show_icons=true&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF&icon_color=F97316" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=missioncs2029-eng&layout=compact&hide_border=true&bg_color=1C1006&title_color=FDBA74&text_color=FFFFFF" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=missioncs2029-eng&hide_border=true&background=1C1006&ring=F97316&fire=FDBA74&currStreakLabel=FDBA74&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FCD34D" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION STREAK                    -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=missioncs2029-eng&theme=github-dark-blue&hide_border=true&background=050B18&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-  width="80%"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
+### 🐍 Contribution Snake
 
 <img
   src="https://raw.githubusercontent.com/missioncs2029-eng/missioncs2029-eng/output/github-contribution-grid-snake-dark.svg"
@@ -400,143 +181,49 @@ Student-focused academic companion for organizing college information and tasks.
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                       TROPHIES                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
+## 🏆 Trophy Case
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=missioncs2029-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4"
-  alt="GitHub Trophies"
-/>
+<img src="https://github-trophies.vercel.app/?username=missioncs2029-eng&theme=gruvbox&no-frame=false&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                      CURRENT FOCUS                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🎯 CURRENT FOCUS</h2>
+## 🎯 Current Focus
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🔥</td>
-<td><b>Full Stack Development</b></td>
-<td>Building modern web applications</td>
-</tr>
-
-<tr>
-<td align="center">🧠</td>
-<td><b>Data Structures & Algorithms</b></td>
-<td>Strengthening problem-solving skills</td>
-</tr>
-
-<tr>
-<td align="center">🚀</td>
-<td><b>Real-World Projects</b></td>
-<td>Turning ideas into working products</td>
-</tr>
-
-<tr>
-<td align="center">🌱</td>
-<td><b>Continuous Learning</b></td>
-<td>Exploring modern technologies</td>
-</tr>
-</table>
+🔭 Deepening skills in **Full Stack Development**
+🌱 Strengthening **Data Structures & Algorithms**
+🤝 Open to collaborating on real-world web projects
 
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                      MY PHILOSOPHY                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">⚡ MY PHILOSOPHY</h2>
+## 📬 Connect
 
 <div align="center">
 
-<pre>
-        BUILD
-          ↓
-        LEARN
-          ↓
-        SOLVE
-          ↓
-        SHIP
-          ↓
-       REPEAT
-</pre>
+[![GitHub](https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=1A0F0A&labelColor=1A0F0A)](https://github.com/missioncs2029-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=1A0F0A&labelColor=1A0F0A)](https://www.linkedin.com/in/amit-kumar-68b406268)
 
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                         CONNECT                           -->
-<!-- ========================================================= -->
-
-<h2 align="center">📬 CONNECT WITH ME</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,50:9A3412,100:F97316&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/missioncs2029-eng">
-  <img
-    src="https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/amit-kumar-68b406268">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</div>
-
-<br/><br/>
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,50:0F2742,100:38BDF8&height=120&section=footer"
-  width="100%"
-  alt=""
-/>
-
-<div align="center">
-
-<img
-  src="./assets/ak-logo.png"
-  width="70"
-  alt="AK Logo"
-/>
-
-<br/><br/>
-
-<strong>AMIT KUMAR</strong>
+<img src="assets/ak-logo.png" width="60" alt="AK Logo" />
 
 <br/>
 
-Full Stack Developer • CSE Student • DSA Enthusiast
+**𝗔𝗠𝗜𝗧 𝗞𝗨𝗠𝗔𝗥** · Full Stack Developer · CSE Student
 
-<br/><br/>
-
-<i>"Turning ideas into systems, one line at a time."</i>
-
-<br/><br/>
-
-<strong>⚡ CODE • CREATE • REPEAT ⚡</strong>
+*"Turning ideas into systems, one line at a time."*
 
 </div>
