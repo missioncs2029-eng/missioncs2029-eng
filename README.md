@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=900&height=80&lines=AMIT+KUMAR" alt="Amit Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=FDBA74&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Writing+Clean%2C+Scalable+Code;Turning+Ideas+Into+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=FDBA74&center=true&vCenter=true&width=900&height=40&lines=Full+Stack+Developer;CSE+Student+%E2%80%A2+DSA+Enthusiast;Building+Real-World+Products;Builidng+Clean%2C+Scalable+Projects;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 
 <br/>
 
